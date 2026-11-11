@@ -1,6 +1,6 @@
 # Quiet Front — playtest builds
 
-Download the latest build: **[Quiet-Front.zip](https://github.com/musicmaker1199-code/quietfront-releases/releases/latest/download/Quiet-Front.zip)**
+Download the latest build: **[Quiet-Front.zip](https://github.com/Westsidemez/quietfront-releases/releases/latest/download/Quiet-Front.zip)**
 
 1. Unzip it and drag **Quiet Front** into Applications.
 2. Open it. It is signed and notarized by Apple, so it opens normally.
